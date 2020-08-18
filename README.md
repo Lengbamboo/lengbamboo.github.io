@@ -1,1 +1,3 @@
 # lengbamboo.github.io
+
+Haha~
